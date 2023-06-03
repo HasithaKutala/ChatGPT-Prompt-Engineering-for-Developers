@@ -18,6 +18,14 @@ Transforming text (e.g., translation, spelling & grammar correction)
 Expanding (e.g., automatically writing emails)
 Building Chatbot 
 
+**#Chatbot **
+
+how to automate the collection of user prompts and assistant responses to build an OrderBot. The OrderBot is designed to take orders at a pizza restaurant. By using the provided code, we can interact with the bot and simulate a conversation.
+
+The code includes a collect_messages function that collects user prompts and assistant responses. It appends the messages to a context list, which is then used to generate the completion from the OpenAI API. The messages are displayed using a graphical user interface (GUI) provided by the panel library.
+
+We can initiate a conversation by entering prompts in the text input field and clicking the "Chat!" button. The conversation between the user and the OrderBot is displayed in the GUI, with user prompts on the left and assistant responses on the right.
+
 
 
 
