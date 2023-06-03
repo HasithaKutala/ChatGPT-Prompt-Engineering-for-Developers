@@ -18,7 +18,7 @@ Transforming text (e.g., translation, spelling & grammar correction)
 Expanding (e.g., automatically writing emails)
 Building Chatbot 
 
-**#Chatbot **
+# Chatbot
 
 how to automate the collection of user prompts and assistant responses to build an OrderBot. The OrderBot is designed to take orders at a pizza restaurant. By using the provided code, we can interact with the bot and simulate a conversation.
 
